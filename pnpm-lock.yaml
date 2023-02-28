@@ -5,7 +5,7 @@ specifiers:
   events: ^3.3.0
   gsap: ^3.10.4
   lil-gui: ^0.18.0
-  three: ^0.147.0
+  three: ^0.150.0
   vite: ^3.1.0
 
 devDependencies:
@@ -13,7 +13,7 @@ devDependencies:
   events: 3.3.0
   gsap: 3.11.4
   lil-gui: 0.18.0
-  three: 0.147.0
+  three: 0.150.1
   vite: 3.2.5
 
 packages:
@@ -350,8 +350,8 @@ packages:
     engines: {node: '>= 0.4'}
     dev: true
 
-  /three/0.147.0:
-    resolution: {integrity: sha512-LPTOslYQXFkmvceQjFTNnVVli2LaVF6C99Pv34fJypp8NbQLbTlu3KinZ0zURghS5zEehK+VQyvWuPZ/Sm8fzw==}
+  /three/0.150.1:
+    resolution: {integrity: sha512-5C1MqKUWaHYo13BX0Q64qcdwImgnnjSOFgBscOzAo8MYCzEtqfQqorEKMcajnA3FHy1yVlIe9AmaMQ0OQracNA==}
     dev: true
 
   /vite/3.2.5:
